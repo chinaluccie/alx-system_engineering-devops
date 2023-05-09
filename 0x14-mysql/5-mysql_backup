@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Get the current date in the desired format
+DATE=$(date +%d-%m-%Y)
+
+# Define the name of the backup file
+BACKUP_FILE="backup.sql"
+
+# Get the MySQL root password as the script argument
+MYSQL_ROOT_PASSWORD=$1
+
+# Dump all MySQL databases into the backup file
+mysqldump -u root -p"$MYSQL_ROOT_PASSWORD" --all-databases > "$BACKUP_FILE"
+
+# Compress the backup file into a tar.gz archive
+tar -czvf "$DATE.tar.gz" "$BACKUP_FILE"
+
+
