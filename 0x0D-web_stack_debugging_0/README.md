@@ -1,7 +1,5 @@
 0x0D. Web stack debugging #0
 ============================
-
-- By Karivone
 - Weight: 1
 
 Concepts
