@@ -7,5 +7,3 @@ Bash script to ping an IP address passed as argument 5 times
 Environment
 Language: Bash scripts (#4-5)
 OS: Ubuntu 14.04 LTS
-Authors
-Karivone
