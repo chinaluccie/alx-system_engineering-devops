@@ -9,5 +9,3 @@ Environment
 Language: Bash scripts
 OS: Ubuntu 14.04 LTS
 Style guidelines: Shellcheck
-Authors
-Karivone
