@@ -81,4 +81,3 @@ You cannot execute your previous answer file (Do not include the name of the pre
 
 GitHub repository: alx-system_engineering-devops
 Directory: 0x12-web_stack_debugging_2
-Author: Karivone
