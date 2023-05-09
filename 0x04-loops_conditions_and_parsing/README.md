@@ -21,5 +21,3 @@ Language: Bash scripts
 OS: Ubuntu 14.04 LTS
 Executable: chmod +x [filename]; run with ./[filename]
 Style guidelines: Shellcheck
-Authors
-Karivone
