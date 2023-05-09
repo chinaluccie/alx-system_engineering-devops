@@ -9,6 +9,3 @@ Each file has the following format:
 
 # !/usr/bin/env ruby
 puts ARGV[0].scan(/ regex here /).join
-
-Authors
-Karivone
