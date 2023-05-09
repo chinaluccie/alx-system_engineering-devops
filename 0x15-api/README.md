@@ -1,6 +1,5 @@
 0x15. API
  Weight: 1
- Author: Karivone
 
 Background Context
 
