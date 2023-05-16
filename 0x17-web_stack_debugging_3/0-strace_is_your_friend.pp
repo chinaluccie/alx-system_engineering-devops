@@ -1,4 +1,4 @@
-cript that does replace a file path
+Script that does replace a file path
 
 $file_path = '/var/www/html/wp-settings.php'
 
@@ -11,3 +11,4 @@ exec { 'ficinge_line':
   path    => ['/bin','/usr/bin']
 
 }
+
