@@ -1,4 +1,4 @@
-Script that does replace a file path
+#puppet Script that does replace a file path
 
 $file_path = '/var/www/html/wp-settings.php'
 
